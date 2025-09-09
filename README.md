@@ -1,16 +1,20 @@
 # salesforce-admin
 Este projeto inclui a configuração de Objetos Personalizados, Fluxos de Automação, Regras de Validação e Layouts de Página.
 
-Objetivo: Desenvolver um projeto de Service Cloud para otimizar e automatizar um processo de gerenciamento de casos. O objetivo é construir uma solução na plataforma Salesforce, aplicando conceitos de configuração e personalização sem a necessidade de código.
+# Objetivo: Desenvolver um projeto de Service Cloud para otimizar e automatizar um processo de gerenciamento de casos. O objetivo é construir uma solução na plataforma Salesforce, aplicando conceitos de configuração e personalização sem a necessidade de código.
 
-Tecnologias/Ferramentas utilizadas:
+# Tecnologias/Ferramentas utilizadas:
 
 Service Cloud
+
 Flow 
+
 Lightning App Builder
+
 Permission Sets
 
-O que foi feito:
+
+# O que foi feito:
 
 Criação e personalização de Campos para capturar informações essenciais.
 
